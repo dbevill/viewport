@@ -138,8 +138,6 @@ footer .icon{
   100% { font-variation-settings: "TIME" 100; }
 }
 
-
-
 /* ----- HANDLE PREFERS REDUCED MOTION FOR THE ICON ANIMATIONS ----- */
 @media(prefers-reduced-motion: reduce){
 /* --------------- BEGIN USER PREFERS REDUCED MOTION QUERY --------------- */
@@ -151,8 +149,6 @@ footer .icon{
     }
 }
 /* --------------- END USER PREFERS REDUCED MOTION QUERY --------------- */
-
-
 
 /* ----- TEXT ----- */
 p, small{
@@ -199,7 +195,6 @@ img{
     display: inline;
     float: left;
 }
-
 
 /* ---------- SMALL SCREEN STYLES ---------- */
 /* --------------- BEGIN SMALL SCREEN SIZES --------------- */
@@ -301,8 +296,6 @@ img{
 }
 /* --------------- END LARGE SCREEN SIZES --------------- */
 
-
-
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */ 
 @media screen and (min-width: 300px) {  
@@ -312,8 +305,6 @@ img{
     }
 }    
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
-
-
 
 /* ---------- EXTRA LARGE SCREEN STYLES ---------- */
 /* --------------- BEGIN EXTRA LARGE SCREEN SIZES --------------- */
